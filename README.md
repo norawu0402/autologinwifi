@@ -9,7 +9,9 @@
    `sudo apt-get install network-manager`
 
 3.You have to  find `username`, `password` and `Login` id names in Captive Portal's web sourc code.
+
   ![image](https://github.com/norawu0402/autologinwifi/blob/master/userpass.png)
+  
 
 4.Put id names  into program
 

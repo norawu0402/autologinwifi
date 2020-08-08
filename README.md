@@ -1,4 +1,4 @@
-# AutoLogin Captive Portal
+# AutoLogin Captive Portal With GUI
 
 > You can access captive portal Wifi by program
 

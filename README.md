@@ -13,6 +13,6 @@
   ![image](https://github.com/norawu0402/autologinwifi/blob/master/userpass.png)
   
 
-4.Put id names  into program
+4.Put id names  into program `AutoLogin.py`
 
 5.Put your Account and  Password into program

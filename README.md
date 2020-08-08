@@ -1,4 +1,4 @@
-# AutoLogin Captive Portal With GUI
+# AutoLogin Captive Portal With GUI `AutoLogin.py`
 
 > You can access captive portal Wifi by program
 
@@ -16,3 +16,9 @@
 4.Put id names  into program `AutoLogin.py`
 
 5.Put your Account and  Password into program
+
+***
+# AutoLogin Captive Portal Without GUI `AutoLoginNoGUI.py`
+
+> If you use raspberry pi or you don't have browser, you can use this program to auto login captive portal
+
